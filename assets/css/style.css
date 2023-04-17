@@ -3,9 +3,16 @@ img{
     height: 200px; 
     object-fit: cover; 
 }
-
+ h1,h3,h6{
+    color:white;
+ }
 
 body{
     background-color:gray;
     
+}
+.a{
+    width: 260px;  
+    height:90px; 
+
 }
